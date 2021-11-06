@@ -82,7 +82,7 @@ public class HelloServlet extends HttpServlet {
         String nome = request.getParameter("nome");
 
         if(nome==null)
-            nome = "Fulanoo";
+            nome = "Fulano";
         
           msg = msg+nome+"!";
 
