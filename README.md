@@ -1,3 +1,4 @@
 # EX1_DAC
 TAREFA 1 DAC;
-PAULO HENRIQUE SANTOS
+-------------------------------
+
