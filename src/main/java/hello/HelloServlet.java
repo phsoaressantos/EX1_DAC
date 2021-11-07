@@ -8,11 +8,11 @@ import javax.servlet.http.HttpServletResponse;
 import java.io.IOException;
 import java.io.PrintWriter;
 import java.util.Calendar;
-import java.lang.StringBuffer; // inverter o nome
+//import java.lang.StringBuffer; // inverter o nome
 
 /**
  *
- * @author viter
+ * @author Paulo Henrique Santos
  */
 @WebServlet("/alomundo")
 public class HelloServlet extends HttpServlet {
