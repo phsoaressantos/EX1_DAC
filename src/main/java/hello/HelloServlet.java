@@ -200,9 +200,9 @@ public class HelloServlet extends HttpServlet {
 //adicionando funcionalidade, inverter o nome:
 
 //        String palavra = "Teste";
-        String palavra = nome;
-        StringBuffer sb = new StringBuffer(palavra);
-        String nomeInvert = sb.reverse().toString();
+//        String palavra = nome;
+//        StringBuffer sb = new StringBuffer(palavra);
+//        String nomeInvert = sb.reverse().toString();
 
 //        System.out.println(palavraInvertida);
 
